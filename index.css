@@ -89,7 +89,7 @@ body {
 
 .navigators {
     margin: 25px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .fullstack {
@@ -112,12 +112,11 @@ body {
     display: flex;
     font-size: large;
     color: whitesmoke;
-    margin-top: 10px;
+    margin: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .image {
-    margin: 10px;
     background-image: url("assets/undraw_coding_6mjf-removebg.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
