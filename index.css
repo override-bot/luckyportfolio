@@ -1,0 +1,191 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 98%;
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 5px;
+}
+
+.first-div {
+    width: 100%;
+    background-color: rgba(19, 18, 18, 0.815);
+    height: 650px;
+    background-image: radial-gradient(#303e52 20%, #202833 60%);
+}
+
+.second-div {
+    width: 100%;
+    background-color: #2a3443;
+    height: 650px;
+}
+
+#sobre {
+    width: 85%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    border: 4px solid#51b5b3;
+    ;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picture {
+    border-radius: 50%;
+    height: 290px;
+    width: 290px;
+    background-image: url("assets/IMG_6311.JPG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.ftext {
+    margin-top: 80px;
+    margin-left: auto;
+    width: 60%;
+}
+
+.headi {
+    display: flex;
+}
+
+.insie-div {
+    height: 100px;
+    width: 96%;
+    margin: 0 auto;
+    background-color: transparent;
+    display: flex;
+}
+
+.header {
+    font-family: cursive;
+    font-size: larger;
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.green {
+    color: #51b5b3;
+    font-weight: bolder;
+}
+
+.nav {
+    margin-left: auto;
+    display: flex;
+    color: grey;
+    font-size: large;
+}
+
+.navigators {
+    margin: 25px;
+    font-family: cursive;
+}
+
+.fullstack {
+    line-height: 20px;
+    margin: 20px;
+    width: 500px;
+}
+
+.button {
+    border: 2px solid #51b5b3;
+    ;
+    background-color: transparent;
+    text-align: center;
+    height: 40px;
+    color: #51b5b3;
+    font-size: medium;
+}
+
+.about {
+    display: flex;
+    font-size: large;
+    color: whitesmoke;
+    margin-top: 10px;
+    font-family: cursive;
+}
+
+.image {
+    margin: 10px;
+    background-image: url("assets/undraw_coding_6mjf-removebg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+}
+
+.name {
+    font-size: x-large;
+}
+
+.white {
+    font-size: x-large;
+    color: whitesmoke;
+    font-family: cursive;
+    text-align: center;
+}
+
+.whites {
+    font-size: medium;
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+.whitexs {
+    font-size: large;
+    color: whitesmoke;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.white2 {
+    font-size: x-large;
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+.icon-div {
+    display: flex;
+    height: 150px;
+    margin: auto;
+    width: fit-content;
+}
+
+.icon {
+    margin: 7px;
+    color: #51b5b3;
+    font-size: xx-large;
+}
+
+.square {
+    height: 20px;
+    width: 20px;
+    border: 2px solid#51b5b3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 28px;
+}
+
+.insquare {
+    height: 17px;
+    width: 17px;
+    background-color: #51b5b3;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
