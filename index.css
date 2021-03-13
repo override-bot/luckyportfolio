@@ -68,7 +68,7 @@ body {
 }
 
 .header {
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
     color: whitesmoke;
     font-weight: bold;
@@ -113,7 +113,7 @@ body {
     font-size: large;
     color: whitesmoke;
     margin-top: 10px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .image {
@@ -133,27 +133,27 @@ body {
 .white {
     font-size: x-large;
     color: whitesmoke;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
 .whites {
     font-size: medium;
     color: whitesmoke;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .whitexs {
     font-size: large;
     color: whitesmoke;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 
 .white2 {
     font-size: x-large;
     color: whitesmoke;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .icon-div {
